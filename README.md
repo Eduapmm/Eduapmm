@@ -1,6 +1,6 @@
 # Eduardo Mattos
 Após um longo período, e muitas experiências adquiridas na área de Contábil e Administração, busco me inserir, e aprender ainda mais na área da Tecnologia da Informação, realizando essa transição de carreia afim de me aprimorarainda mais, não só profissionalmente, como pessoalmente. Para isso faço a faculdade de Análise e Desenvolvimento de Sistemas na faculdade FMU e varios cursos em paralelo para acelerar meu aprendizado.
-#
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
