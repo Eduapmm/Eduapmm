@@ -1,5 +1,6 @@
 # Eduardo Mattos
 Depois de muitos anos trabalhando e acumulando experiência em Contabilidade e Administração, decidi mergulhar de cabeça no mundo da Tecnologia da Informação. Estou passando por essa mudança de carreira para me aprimorar não apenas profissionalmente, mas também me realizar pessoalmente.
+
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade FMU e, para acelerar meu aprendizado, estou fazendo vários cursos extras (Bootcamps e cursos de diversas plataformas de ensino). Estou cada vez mais apaixonado por essa área e me esforçando ao máximo para absorver todo o conhecimento e as habilidades necessárias para enfrentar esse novo desafio profissional com confiança."
 
 
