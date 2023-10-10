@@ -11,19 +11,22 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade F
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 #
-![stats](https://github-readme-stats.vercel.app/api?username=Eduapmm&theme=blue-green)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduapmm&theme=blue-green)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduapmm&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduapmm&theme=blue-green"/>
+</div>
 
 #
-  <div align="center">
-    <a href="https://www.linkedin.com/in/eduardoapmmattos">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardoapmmattos">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto: edu.apmm@gmail.com">
+  </a>
+  <a href="mailto: edu.apmm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://web.dio.me/users/edu_apmm">
-      <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">
-    </a>
-  </div>
+  </a>
+  <a href="https://web.dio.me/users/edu_apmm">
+     <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">
+  </a>
 </div>
+
