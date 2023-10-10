@@ -2,7 +2,7 @@
 Depois de muitos anos trabalhando e acumulando experiência em Contabilidade e Administração, decidi mergulhar de cabeça no mundo da Tecnologia da Informação. Estou passando por essa mudança de carreira para me aprimorar não apenas profissionalmente, mas também me realizar pessoalmente.
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade FMU e, para acelerar meu aprendizado, estou fazendo vários cursos extras (Bootcamps e cursos de diversas plataformas de ensino). Estou cada vez mais apaixonado por essa área e me esforçando ao máximo para absorver todo o conhecimento e as habilidades necessárias para enfrentar esse novo desafio profissional com confiança."
-
+</br>
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade F
 </div>
 
 #
-<br/>
+
 <div align="center">
    <a href="mailto: edu.apmm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
