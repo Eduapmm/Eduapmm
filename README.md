@@ -11,10 +11,11 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade F
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 #
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+  </a>
+</div>
