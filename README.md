@@ -13,6 +13,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade F
 #
 ![stats](https://github-readme-stats.vercel.app/api?username=Eduapmm&theme=blue-green)
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduapmm&theme=blue-green)
+
 #
   <div>
     <a href="https://www.linkedin.com/in/eduardoapmmattos">
@@ -20,6 +21,9 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade F
     </a>
     <a href="mailto: edu.apmm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://web.dio.me/users/edu_apmm">
+      <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">
     </a>
   </div>
 </div>
