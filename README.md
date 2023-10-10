@@ -18,13 +18,13 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade F
 </div>
 
 #
-
+<br/>
 <div align="center">
+   <a href="mailto: edu.apmm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/eduardoapmmattos">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto: edu.apmm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://web.dio.me/users/edu_apmm">
      <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">
